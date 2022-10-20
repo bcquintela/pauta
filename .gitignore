@@ -14,5 +14,5 @@
 *.rar
 
 #IntelliJ
-.idea/
+.idea
 *.iml

@@ -13,13 +13,13 @@ public class Main {
         };
 
         System.out.println();
-        System.out.println("---------------MENU----------------");
+        System.out.println("----------------------MENU------------------------");
 
         for (String opcao : opcoes){
             System.out.println(opcao);
         }
 
-        System.out.println("-----------------------------------");
+        System.out.println("--------------------------------------------------");
         System.out.println();
         System.out.print("Introduza a sua opção : ");
     }
